@@ -1,8 +1,6 @@
-import _ from "lodash";
-
 function component() {
-  const element = document.createElement("div");
-  element.innerHTML = _.join(["hello", "webpack"], " ");
+  const element = document.createElement("h1");
+  element.innerText = "Hello World!";
   return element;
 }
 

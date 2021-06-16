@@ -1,0 +1,1 @@
+document.getElementById("app").appendChild(function(){const e=document.createElement("h1");return e.innerText="Hello World!",e}());
