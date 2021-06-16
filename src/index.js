@@ -1,7 +1,6 @@
-function component() {
-  const element = document.createElement("h1");
-  element.innerText = "Hello World!";
-  return element;
-}
+import nav from "./components/Nav/nav";
+import homePage from "./pages/HomePage";
+import "./main.scss";
 
-document.getElementById("app").appendChild(component());
+document.getElementById("app").appendChild(nav());
+document.getElementById("app").appendChild(homePage());
