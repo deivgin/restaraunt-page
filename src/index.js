@@ -1,6 +1,3 @@
-import nav from "./components/Nav";
-import homePage from "./pages/HomePage";
-import "./main.scss";
+import app from "./app";
 
-document.getElementById("app").appendChild(nav());
-document.getElementById("app").appendChild(homePage());
+app();

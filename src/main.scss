@@ -1,5 +1,9 @@
-@import "./pages//HomePage/homeStyles.scss";
+@import "./pages//HomePage/homePageStyles.scss";
+@import "./pages//MenuPage/menuPageStyles.scss";
+@import "./pages//ContactPage/contactPageStyles.scss";
+
 @import "./components/Nav/navStyles.scss";
+@import "./components/logo/logoStyles.scss";
 
 * {
   margin: 0;

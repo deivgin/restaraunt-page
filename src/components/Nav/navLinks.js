@@ -1,17 +1,4 @@
-const links = [
-  {
-    name: "home",
-    handleFunction: () => console.log("ClickHome"),
-  },
-  {
-    name: "menu",
-    handleFunction: () => console.log("ClickMenu"),
-  },
-  {
-    name: "contact",
-    handleFunction: () => console.log("ClickContact"),
-  },
-];
+import links from "../../utils/pageLinks";
 
 function generateLinks(links) {
   return links.map((item) => {
