@@ -1,4 +1,4 @@
-import nav from "./components/Nav/nav";
+import nav from "./components/Nav";
 import homePage from "./pages/HomePage";
 import "./main.scss";
 
