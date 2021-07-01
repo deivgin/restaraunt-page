@@ -1,17 +1,20 @@
-import { setCurrPage } from "./store";
+import renderPage from "./renderPage";
+import homePage from "../pages/HomePage";
+import contactPage from "../pages/ContactPage";
+import menuPage from "../pages/MenuPage";
 
 const links = [
   {
     name: "home",
-    handleFunction: () => setCurrPage("home"),
+    handleFunction: () => renderPage(homePage()),
   },
   {
     name: "menu",
-    handleFunction: () => setCurrPage("menu"),
+    handleFunction: () => renderPage(menuPage()),
   },
   {
     name: "contact",
-    handleFunction: () => setCurrPage("contact"),
+    handleFunction: () => renderPage(contactPage()),
   },
 ];
 
