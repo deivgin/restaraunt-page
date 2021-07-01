@@ -1,7 +1,7 @@
 import logo from "../Logo";
 import navLinks from "./navLinks";
 
-function nav() {
+export default function nav() {
   const container = document.createElement("nav");
   container.classList.add("nav");
 
@@ -10,5 +10,3 @@ function nav() {
 
   return container;
 }
-
-export default nav;

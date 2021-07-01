@@ -1,6 +1,6 @@
 import "./logoStyles.scss";
 
-function logo() {
+export default function logo() {
   const container = document.createElement("div");
   container.classList.add("logo");
 
@@ -10,5 +10,3 @@ function logo() {
   container.appendChild(heading);
   return container;
 }
-
-export default logo;
