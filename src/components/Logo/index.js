@@ -6,7 +6,7 @@ export default function logo() {
 
   const heading = document.createElement("h1");
   heading.classList.add("logo__heading");
-  heading.innerText = "Restaurant";
+  heading.innerText = "pink hombre";
   container.appendChild(heading);
   return container;
 }

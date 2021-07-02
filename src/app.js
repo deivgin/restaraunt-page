@@ -13,4 +13,5 @@ export default function app() {
   app.appendChild(footer());
 
   renderPage(homePage());
+  document.querySelector("#homeButton").classList.add("active");
 }

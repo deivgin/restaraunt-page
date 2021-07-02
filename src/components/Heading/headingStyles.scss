@@ -1,0 +1,8 @@
+.heading-1 {
+  color: $color-primary;
+  font-size: $font-size-exLarge;
+  font-weight: bold;
+  text-shadow: -0.1rem 0.1rem 0 $color-secondary,
+    -0.15rem 0.15rem 0 $color-secondary, -0.2rem 0.2rem 0 $color-secondary;
+  text-transform: uppercase;
+}

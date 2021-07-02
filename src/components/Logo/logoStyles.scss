@@ -1,6 +1,12 @@
+@import "../../styles/variables.scss";
+
 .logo {
   &__heading {
-    color: #000;
-    font-size: 3rem;
+    color: $color-primary;
+    font-size: $font-size-medium;
+    font-weight: bold;
+    text-shadow: -0.1rem 0.1rem 0 $color-secondary,
+      -0.15rem 0.15rem 0 $color-secondary, -0.2rem 0.2rem 0 $color-secondary;
+    text-transform: uppercase;
   }
 }

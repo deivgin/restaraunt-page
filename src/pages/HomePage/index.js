@@ -4,9 +4,10 @@ import heading from "../../components/Heading";
 export default function homePage() {
   const container = document.createElement("main");
   container.classList.add("main-container");
-  container.innerText = "Home Page";
 
-  container.appendChild(heading("Heading"));
+  container.appendChild(heading("taco"));
+  container.appendChild(heading("taco"));
+  container.appendChild(heading("taco"));
 
   return container;
 }
