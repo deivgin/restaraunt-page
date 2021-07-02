@@ -2,10 +2,14 @@ import links from "../../utils/pageLinks";
 
 function generateLinks(links) {
   return links.map((item) => {
-    const link = document.createElement("button");
-    link.classList.add("nav__link");
-    link.innerText = item.name;
-    link.addEventListener("click", item.handleFunction);
+    const link = document.createElement("li");
+    const button = document.createElement("button");
+    link.classList.add("nav__links--item");
+    button.classList.add("nav__button");
+    button.innerText = item.name;
+    button.addEventListener("click", item.handleFunction);
+    button.id = `${item.name}Button`;
+    link.appendChild(button);
     return link;
   });
 }

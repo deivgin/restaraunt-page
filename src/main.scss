@@ -8,20 +8,5 @@
 @import "./components/Heading/headingStyles.scss";
 @import "./components/Footer/footerStyles.scss";
 
-* {
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  box-sizing: border-box;
-  font-size: 62.5%;
-  font-family: "Staatliches", cursive;
-}
-
-.app {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
+@import "./styles//global.scss";
+@import "./styles/utility.scss";
