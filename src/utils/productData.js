@@ -3,7 +3,7 @@ const products = [
     name: "taco1",
     description: "description1",
     price: 1,
-    image: "../assets/taco1.jpg",
+    image: "assets/taco1.jpg",
   },
   {
     name: "taco2",

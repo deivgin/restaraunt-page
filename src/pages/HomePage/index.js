@@ -6,8 +6,6 @@ export default function homePage() {
   container.classList.add("main-container");
 
   container.appendChild(heading("taco"));
-  container.appendChild(heading("taco"));
-  container.appendChild(heading("taco"));
 
   return container;
 }

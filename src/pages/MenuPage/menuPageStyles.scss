@@ -1,0 +1,14 @@
+.menu-page {
+  width: 100%;
+  display: grid;
+  grid-template-columns:
+    [left-start]1fr
+    [left-end right-start]1fr[right-end];
+  row-gap: 2rem;
+  column-gap: 2rem;
+
+  &__heading {
+    grid-column: left-start/right-end;
+    text-align: center;
+  }
+}

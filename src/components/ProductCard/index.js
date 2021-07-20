@@ -1,3 +1,5 @@
+import './productCardStyles.scss';
+
 export default function productCard(imageSource) {
   const container = document.createElement("div");
   const img = document.createElement("img");
