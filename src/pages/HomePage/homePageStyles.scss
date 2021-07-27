@@ -1,2 +1,18 @@
-.main-container {
+@import "../../styles/variables.scss";
+
+.home-page {
+  &__heading {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  &__desc {
+    font-size: $font-size-small;
+    text-align: center;
+  }
+
+  &__image {
+    grid-column: right-start/right-end;
+  }
 }
