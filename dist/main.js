@@ -80,6 +80,76 @@ eval("\n\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n
 
 /***/ }),
 
+/***/ "./src/assets/images/taco1.jpg":
+/*!*************************************!*\
+  !*** ./src/assets/images/taco1.jpg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"94f932a7237f692efb4c.jpg\";\n\n//# sourceURL=webpack://webpack-setup/./src/assets/images/taco1.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/taco2.jpg":
+/*!*************************************!*\
+  !*** ./src/assets/images/taco2.jpg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"9ddf2910425c76fc68b4.jpg\";\n\n//# sourceURL=webpack://webpack-setup/./src/assets/images/taco2.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/taco3.jpg":
+/*!*************************************!*\
+  !*** ./src/assets/images/taco3.jpg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"617e8073c47ccf2ae257.jpg\";\n\n//# sourceURL=webpack://webpack-setup/./src/assets/images/taco3.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/taco4.jpg":
+/*!*************************************!*\
+  !*** ./src/assets/images/taco4.jpg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"ba4c0b52c8414f794e46.jpg\";\n\n//# sourceURL=webpack://webpack-setup/./src/assets/images/taco4.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/taco5.jpg":
+/*!*************************************!*\
+  !*** ./src/assets/images/taco5.jpg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"15d5288a85710c718a00.jpg\";\n\n//# sourceURL=webpack://webpack-setup/./src/assets/images/taco5.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/taco6.jpg":
+/*!*************************************!*\
+  !*** ./src/assets/images/taco6.jpg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"4d611afc6e418f8e5692.jpg\";\n\n//# sourceURL=webpack://webpack-setup/./src/assets/images/taco6.jpg?");
+
+/***/ }),
+
+/***/ "./src/assets/images/taco7.jpg":
+/*!*************************************!*\
+  !*** ./src/assets/images/taco7.jpg ***!
+  \*************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"e21ee336327e546efda5.jpg\";\n\n//# sourceURL=webpack://webpack-setup/./src/assets/images/taco7.jpg?");
+
+/***/ }),
+
 /***/ "./src/components/Logo/logoStyles.scss":
 /*!*********************************************!*\
   !*** ./src/components/Logo/logoStyles.scss ***!
@@ -316,7 +386,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\nconst products = [\r\n  {\r\n    name: \"taco1\",\r\n    description: \"description1\",\r\n    price: 1,\r\n    image: \"../assets/images/taco1.jpg\",\r\n  },\r\n  {\r\n    name: \"taco2\",\r\n    description: \"description2\",\r\n    price: 2,\r\n    image: \"../assets/images/taco2.jpg\",\r\n  },\r\n  {\r\n    name: \"taco3\",\r\n    description: \"description3\",\r\n    price: 3,\r\n    image: \"../assets/images/taco3.jpg\",\r\n  },\r\n  {\r\n    name: \"taco4\",\r\n    description: \"description4\",\r\n    price: 4,\r\n    image: \"../assets/images/taco4.jpg\",\r\n  },\r\n  {\r\n    name: \"taco5\",\r\n    description: \"description5\",\r\n    price: 5,\r\n    image: \"../assets/images/taco5.jpg\",\r\n  },\r\n  {\r\n    name: \"taco6\",\r\n    description: \"description6\",\r\n    price: 6,\r\n    image: \"../assets/images/taco6.jpg\",\r\n  },\r\n  {\r\n    name: \"taco7\",\r\n    description: \"description7\",\r\n    price: 7,\r\n    image: \"../assets/images/taco7.jpg\",\r\n  },\r\n];\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (products);\r\n\n\n//# sourceURL=webpack://webpack-setup/./src/utils/productData.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _assets_images_taco1_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../assets/images/taco1.jpg */ \"./src/assets/images/taco1.jpg\");\n/* harmony import */ var _assets_images_taco2_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/images/taco2.jpg */ \"./src/assets/images/taco2.jpg\");\n/* harmony import */ var _assets_images_taco3_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/images/taco3.jpg */ \"./src/assets/images/taco3.jpg\");\n/* harmony import */ var _assets_images_taco4_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../assets/images/taco4.jpg */ \"./src/assets/images/taco4.jpg\");\n/* harmony import */ var _assets_images_taco5_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../assets/images/taco5.jpg */ \"./src/assets/images/taco5.jpg\");\n/* harmony import */ var _assets_images_taco6_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../assets/images/taco6.jpg */ \"./src/assets/images/taco6.jpg\");\n/* harmony import */ var _assets_images_taco7_jpg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../assets/images/taco7.jpg */ \"./src/assets/images/taco7.jpg\");\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nconst products = [\r\n  {\r\n    name: \"taco1\",\r\n    description: \"description1\",\r\n    price: 1,\r\n    image: _assets_images_taco1_jpg__WEBPACK_IMPORTED_MODULE_0__,\r\n  },\r\n  {\r\n    name: \"taco2\",\r\n    description: \"description2\",\r\n    price: 2,\r\n    image: _assets_images_taco2_jpg__WEBPACK_IMPORTED_MODULE_1__,\r\n  },\r\n  {\r\n    name: \"taco3\",\r\n    description: \"description3\",\r\n    price: 3,\r\n    image: _assets_images_taco3_jpg__WEBPACK_IMPORTED_MODULE_2__,\r\n  },\r\n  {\r\n    name: \"taco4\",\r\n    description: \"description4\",\r\n    price: 4,\r\n    image: _assets_images_taco4_jpg__WEBPACK_IMPORTED_MODULE_3__,\r\n  },\r\n  {\r\n    name: \"taco5\",\r\n    description: \"description5\",\r\n    price: 5,\r\n    image: _assets_images_taco5_jpg__WEBPACK_IMPORTED_MODULE_4__,\r\n  },\r\n  {\r\n    name: \"taco6\",\r\n    description: \"description6\",\r\n    price: 6,\r\n    image: _assets_images_taco6_jpg__WEBPACK_IMPORTED_MODULE_5__,\r\n  },\r\n  {\r\n    name: \"taco7\",\r\n    description: \"description7\",\r\n    price: 7,\r\n    image: _assets_images_taco7_jpg__WEBPACK_IMPORTED_MODULE_6__,\r\n  },\r\n];\r\n\r\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (products);\r\n\n\n//# sourceURL=webpack://webpack-setup/./src/utils/productData.js?");
 
 /***/ }),
 
@@ -381,6 +451,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -395,6 +477,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /************************************************************************/
