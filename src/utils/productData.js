@@ -1,45 +1,53 @@
+import taco1 from "../assets/images/taco1.jpg";
+import taco2 from "../assets/images/taco2.jpg";
+import taco3 from "../assets/images/taco3.jpg";
+import taco4 from "../assets/images/taco4.jpg";
+import taco5 from "../assets/images/taco5.jpg";
+import taco6 from "../assets/images/taco6.jpg";
+import taco7 from "../assets/images/taco7.jpg";
+
 const products = [
   {
     name: "taco1",
     description: "description1",
     price: 1,
-    image: "assets/taco1.jpg",
+    image: taco1,
   },
   {
     name: "taco2",
     description: "description2",
     price: 2,
-    image: "../assets/taco2.jpg",
+    image: taco2,
   },
   {
     name: "taco3",
     description: "description3",
     price: 3,
-    image: "../assets/taco3.jpg",
+    image: taco3,
   },
   {
     name: "taco4",
     description: "description4",
     price: 4,
-    image: "../assets/taco4.jpg",
+    image: taco4,
   },
   {
     name: "taco5",
     description: "description5",
     price: 5,
-    image: "../assets/taco5.jpg",
+    image: taco5,
   },
   {
     name: "taco6",
     description: "description6",
     price: 6,
-    image: "../assets/taco6.jpg",
+    image: taco6,
   },
   {
     name: "taco7",
     description: "description7",
     price: 7,
-    image: "../assets/taco7.jpg",
+    image: taco7,
   },
 ];
 
